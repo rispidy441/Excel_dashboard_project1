@@ -3,17 +3,21 @@
 
 This project includes an interactive Excel sales dashboard built using:
 
-Pivot tables
-KPIs (Revenue, Quantity, AOV, Transactions)
-Charts (Line, Bar, Donut, Top 5 Customers)
-Clean formatting & dashboard design principles.
+1. Cleaned and transformed raw transactional data to ensure accuracy and consistency.
+2. Pivot tables.
+3. KPIs (Revenue, Orders,State wise sales, monthly, channels, gender, category specific).
+4. Charts (Column, Bar, Pie chart) and Slicers.
+5. Built a structured, management-ready dashboard to analyze monthly trends, product categories, and customer performance(by age and gender).
 
-##Files Included
-retail_sales_dataset_workbook.xlsx (main dashboard)
-retail_sales_dataset_original.csv (dataset used)
+## Files Included
+1. Store Data Analysis excel project.xlsx (main dashboard).
+2. Store Data_raw.xlsx (dataset used).
 
-##Tools Used
-Microsoft Excel
+
+## Tools Used
+
+  Microsft Excel
+  
 
 
 
